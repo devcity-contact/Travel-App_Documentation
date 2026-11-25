@@ -1,0 +1,67 @@
+site_name: Travel App Docs
+site_description: Local experiences along your road
+copyright: Draft · working name, brand not chosen yet
+
+docs_dir: docs
+
+nav:
+  - Home: index.md
+  - Product: 01-product.md
+  - User flows: 02-user-flows.md
+  - Features: 03-features.md
+  - Business model: 04-business-model.md
+  - Market: 05-market.md
+  - Technology: 06-technology.md
+  - Roadmap: 07-roadmap.md
+  - Funding: 08-funding.md
+
+theme:
+  name: material
+  font:
+    text: DM Sans
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-night
+        name: Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-sunny
+        name: Light mode
+  features:
+    - navigation.top
+    - navigation.footer
+    - navigation.instant
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+
+extra_css:
+  - stylesheets/brand.css
+
+markdown_extensions:
+  - tables
+  - admonition
+  - attr_list
+  - md_in_html
+  - def_list
+  - pymdownx.details
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - toc:
+      permalink: true

@@ -5,7 +5,7 @@ The app should have **one clear path** for each job. Every screen has **one main
 ## The main flow (traveller)
 
 ```mermaid
-flowchart LR
+flowchart TB
     A[Home] --> B[Enter From / To]
     B --> C[See experiences<br/>along the road]
     C --> D[Add to trip]
@@ -72,7 +72,7 @@ flowchart LR
 ## Flow 5 — Become a host
 
 ```mermaid
-flowchart LR
+flowchart TB
     A[Sign up] --> B[Host details]
     B --> C[Create listing<br/>draft]
     C --> D[Add times + seats]

@@ -1,0 +1,20 @@
+/* Aqua & midnight, matching the app */
+:root {
+  --md-primary-fg-color: #0b1f3a;
+  --md-primary-fg-color--light: #1c3557;
+  --md-primary-fg-color--dark: #07152a;
+  --md-accent-fg-color: #00b4c6;
+  --md-typeset-a-color: #00798a;
+}
+[data-md-color-scheme="slate"] {
+  --md-default-bg-color: #0b1f3a;
+  --md-typeset-a-color: #3ee0ef;
+  --md-accent-fg-color: #3ee0ef;
+}
+.md-typeset table:not([class]) { font-size: .8rem; }
+.md-typeset table:not([class]) th { background: rgba(0, 180, 198, .12); }
+.md-typeset blockquote { border-left-color: #00b4c6; }
+.md-typeset h1 { color: var(--md-primary-fg-color); font-weight: 700; }
+[data-md-color-scheme="slate"] .md-typeset h1 { color: #fff; }
+.md-typeset h2 { font-weight: 700; }
+.md-typeset .mermaid { max-width: 420px; margin: 0 auto; }
