@@ -29,3 +29,6 @@
 .md-typeset .mermaid { max-width: 420px; margin: 0 auto; }
 .md-footer, .md-footer-meta { background: #0d1d42; }
 .md-footer-meta { border-top: 1px solid rgba(255,255,255,.08); }
+/* Readable quotes and no empty header bars on label/value tables */
+.md-typeset blockquote { color: var(--md-default-fg-color); background: rgba(34, 94, 255, .04); padding: .2rem 1rem; border-radius: 0 .3rem .3rem 0; }
+.md-typeset table:not([class]) thead:has(th:first-child:empty):has(th:last-child:empty) { display: none; }

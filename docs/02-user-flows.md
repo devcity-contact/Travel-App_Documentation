@@ -125,5 +125,3 @@ Security: invite only, two-factor login, auto logout after 30 min idle.
 | Account | Sign in sheet · Profile · Saved (wishlist) |
 | Host | Host dashboard · Listing editor · Calendar · Scan ticket |
 | Staff portal | Hosts · Listings · Places · Routes · Videos · Refunds · Team · Audit log |
-
-> **Fix plan:** walk each flow above in the real app, screen by screen. Anything that's missing, confusing or has more than one main button is a bug.

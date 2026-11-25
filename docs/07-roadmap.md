@@ -9,15 +9,15 @@
 | Core product (route search, booking, deposit, offline ticket, reviews) | ✅ Built |
 | Host tools and staff portal | ✅ Built |
 | Look and feel, simple flows | 🔧 In progress |
-| Hosts signed on a real route | ⏳ Not started |
-| Brand name | ⏳ Open |
+| Host sign-ups on the first route | ⏳ Starting now |
+| Public launch | 🚀 Live soon |
 
 ## Next 12 months
 
 | When | Milestone | Done when |
 | --- | --- | --- |
 | **Month 1** | Fix the flows + finish redesign | Every flow in [User flows](02-user-flows.md) works end to end with one main button per screen |
-| **Month 1–2** | Brand name, PayHere live, legal pages reviewed | Real payments possible |
+| **Month 1–2** | Brand reveal, PayHere live, legal pages reviewed | Real payments possible |
 | **Month 1–3** | Sign **30–50 hosts** on the first route | Verified and live |
 | **Month 3** | **Beta launch** on one route | Real tourists book real experiences |
 | **Month 4–6** | Free growth: Google-friendly pages, route guides, Google sign-in, share trip | Organic traffic arriving from Google |
@@ -38,9 +38,7 @@
 | Average rating | Quality |
 | Repeat / referred travellers | Word of mouth |
 
-## Things only people can speed up
-
-AI makes the code faster. It doesn't speed up these — start them early:
+## Launch tasks in progress
 
 - Visiting and signing hosts
 - PayHere merchant approval

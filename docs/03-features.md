@@ -12,7 +12,7 @@
 | Experiences in road order, with detour distance | ✅ | |
 | Discover: browse by town, category, day, group size | ✅ | |
 | Near me | ✅ | |
-| Trips (collect experiences + places, day plan) | 🔧 | Flow needs to be simpler (see [User flows](02-user-flows.md)) |
+| Trips (collect experiences + places, day plan) | 🔧 | Being simplified to the flow in [User flows](02-user-flows.md) |
 | Saved (wishlist) | ✅ | |
 | Book + pay 15% deposit (PayHere) | ✅ | No double booking, safe to tap twice |
 | Ticket with QR code, works offline | ✅ | |

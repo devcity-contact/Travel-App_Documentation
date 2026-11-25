@@ -1,11 +1,14 @@
 ![Devcity](assets/devcity-logo.png){ width="220" }
 
-# Travel App — Documentation
+# Local experiences along your road
 
 > **Book real local experiences along the road you're already travelling.**
-> First market: Sri Lanka. Brand name: not chosen yet.
+> A product by **[Devcity](https://devcity.us)** · First market: Sri Lanka
 
-A product by **[Devcity](https://devcity.us)**. This is the simple, plain-English guide to the product. Short pages, tables and lists. Good for the team, partners and funding applications.
+!!! success "Live soon"
+    The core product is built and we're preparing for launch on our first route in Sri Lanka.
+
+This is the plain-English guide to the product: what it is, how it works, how it makes money and where it's going.
 
 ## Start here
 
@@ -18,7 +21,7 @@ A product by **[Devcity](https://devcity.us)**. This is the simple, plain-Englis
 | 5 | [Market](05-market.md) | Sri Lanka numbers and competitors |
 | 6 | [Technology](06-technology.md) | Stack, architecture, running costs |
 | 7 | [Roadmap](07-roadmap.md) | Milestones for the next 12 months |
-| 8 | [Funding](08-funding.md) | Startup programs (Google, AWS, Microsoft, Cloudflare) and pitch material |
+| 8 | [Partnerships](08-funding.md) | Our pitch, and how we'd use partner support |
 
 ## The product in 30 seconds
 

@@ -57,12 +57,12 @@ Payment fees (PayHere) come out of the deposit. Exact fees are still being confi
 | Gift experiences | Later |
 | New countries (same code, new data) | Later |
 
-## Open business questions
+## Being finalised before launch
 
-| Question | Status |
+| Item | Status |
 | --- | --- |
-| Which currency is the deposit charged in? | Open |
-| PayHere fees, split payments, refund API? | Open |
-| Late cancellation: how much goes to the host, and how? | Open |
-| First launch route | Open (Galle – Colombo suggested) |
-| Brand name | Open |
+| Which currency is the deposit charged in? | In progress |
+| PayHere fees, split payments, refund API? | In progress |
+| Late cancellation: how much goes to the host, and how? | In progress |
+| First launch route | In progress |
+| Brand reveal | At launch |

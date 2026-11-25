@@ -59,4 +59,4 @@ Most tools have free tiers that cover the beta. Costs grow with use. The biggest
 | Vercel | Website traffic |
 | PayHere fees | Number of bookings |
 
-This is exactly what startup cloud credits help with — see [Funding](08-funding.md).
+Startup cloud programs help us cover these as we grow — see [Partnerships](08-funding.md).
