@@ -25,13 +25,13 @@ Ready-to-use material for startup programs (Google for Startups, AWS Activate, M
 
 ## One-paragraph description (for application forms)
 
-> [Brand] is a route-based experience marketplace. Travellers enter where they're going, and we show verified local experiences along the road — cooking, crafts, farming, nature, culture — in road order with detour times. They book with a 15% online deposit (our revenue) and pay the host the rest on the day, so hosts get cash immediately and we never hold their money. Our team lists hosts who aren't online, verifies each one in person, and enforces one fair price for everyone. The app works on weak signal with offline tickets. We launch in Sri Lanka and expand country by country as data.
+> [Brand], by Devcity, is a route-based experience marketplace. Travellers enter where they're going, and we show verified local experiences along the road — cooking, crafts, farming, nature, culture — in road order with detour times. They book with a 15% online deposit (our revenue) and pay the host the rest on the day, so hosts get cash immediately and we never hold their money. Our team lists hosts who aren't online, verifies each one in person, and enforces one fair price for everyone. The app works on weak signal with offline tickets. We launch in Sri Lanka and expand country by country as data.
 
 ## Pitch deck outline (10 slides)
 
 | # | Slide | Key message |
 | --- | --- | --- |
-| 1 | Title | Name, one line: "Local experiences along your road" |
+| 1 | Title | Name, one line: "Local experiences along your road" · Devcity logo |
 | 2 | Problem | Tourists miss the best things between cities. Hosts can't be found. Spend per visitor is falling. |
 | 3 | Solution | From → To → experiences in road order → book → offline ticket (screenshots) |
 | 4 | Demo | 3 screens: route results, my trip, ticket |
@@ -40,7 +40,7 @@ Ready-to-use material for startup programs (Google for Startups, AWS Activate, M
 | 7 | Traction | Product built; hosts signed; beta bookings *(fill in real numbers)* |
 | 8 | Competition | Table from [Market](05-market.md) — we link road + host + booking + offline |
 | 9 | Roadmap | Beta → 5 routes → whole island → 2nd country |
-| 10 | Team + ask | Who we are, what we need (credits / funding) and what it unlocks |
+| 10 | Team + ask | Devcity team, what we need (credits / funding) and what it unlocks · contact: yashen@devcity.us |
 
 ## What we can prove today
 
@@ -56,8 +56,10 @@ Ready-to-use material for startup programs (Google for Startups, AWS Activate, M
 
 | Item | Value |
 | --- | --- |
-| Company name / registration | _[fill in]_ |
+| Company | **Devcity** · [devcity.us](https://devcity.us) |
+| Company registration | _[fill in]_ |
 | Brand name + domain | _[fill in]_ |
+| Contact | Yashen Fernando, Head of Engineering · [yashen@devcity.us](mailto:yashen@devcity.us) |
 | Founders and roles | _[fill in]_ |
 | Website / demo link | _[fill in]_ |
 | Funding raised so far | _[fill in]_ |

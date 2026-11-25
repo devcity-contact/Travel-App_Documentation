@@ -1,6 +1,7 @@
 site_name: Travel App Docs
+site_author: Devcity
 site_description: Local experiences along your road
-copyright: Draft · working name, brand not chosen yet
+copyright: '&copy; 2026 <a href="https://devcity.us">Devcity</a> · Contact: Yashen Fernando, Head of Engineering · <a href="mailto:yashen@devcity.us">yashen@devcity.us</a>'
 
 docs_dir: docs
 
@@ -17,6 +18,8 @@ nav:
 
 theme:
   name: material
+  logo: assets/devcity-logo.png
+  favicon: assets/devcity-logo.png
   font:
     text: DM Sans
   palette:
@@ -42,6 +45,16 @@ theme:
     - search.suggest
     - search.highlight
     - content.tabs.link
+
+extra:
+  generator: false
+  social:
+    - icon: material/web
+      link: https://devcity.us
+      name: devcity.us
+    - icon: material/email
+      link: mailto:yashen@devcity.us
+      name: yashen@devcity.us
 
 extra_css:
   - stylesheets/brand.css

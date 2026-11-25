@@ -1,5 +1,7 @@
 # Travel App — Documentation
 
+By [Devcity](https://devcity.us) · Contact: Yashen Fernando, Head of Engineering · yashen@devcity.us
+
 The docs live in [`docs/`](docs/index.md) as plain Markdown and are shown as a website with [MkDocs Material](https://squidfunk.github.io/mkdocs-material/).
 
 ## Edit

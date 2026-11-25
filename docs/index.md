@@ -1,9 +1,11 @@
+![Devcity](assets/devcity-logo.png){ width="220" }
+
 # Travel App — Documentation
 
 > **Book real local experiences along the road you're already travelling.**
 > First market: Sri Lanka. Brand name: not chosen yet.
 
-This is the simple, plain-English guide to the product. Short pages, tables and lists. Good for the team, partners and funding applications.
+A product by **[Devcity](https://devcity.us)**. This is the simple, plain-English guide to the product. Short pages, tables and lists. Good for the team, partners and funding applications.
 
 ## Start here
 
@@ -35,3 +37,9 @@ This is the simple, plain-English guide to the product. Short pages, tables and 
 - ✅ Tickets work offline.
 - ✅ New countries are added as data, not new code.
 - ✅ We never hold a host's money (in the first version).
+
+## Contact
+
+- **Company:** [Devcity](https://devcity.us)
+- **Head of Engineering:** Yashen Fernando
+- **Email:** [yashen@devcity.us](mailto:yashen@devcity.us)
